@@ -1,0 +1,5 @@
+Código del App Inventor 2. Información del móvil al Arduino.
+
+ p40_movil_a_arduino.aia (Para App inventor 2)
+
+ p40_movil_a_arduino.apk (Aplicación preparada para instalarla en el móvil)
